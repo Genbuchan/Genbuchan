@@ -2,4 +2,5 @@
 .Spotlight-V100
 .Thumbs.db
 .DS_Store
+.fseventsd
 # and any .shameful-things
