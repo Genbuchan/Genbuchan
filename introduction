@@ -1,0 +1,10 @@
+#!/bin/sh
+echo "Hello everyone! I am Genbuchan<Ryo Shigematsu>. Thank you to find me!\n"
+
+echo "First of all, please let me introduce myself using JSON-LD."
+
+read
+
+less profile.json
+
+echo "I glad to meet you! :D"
